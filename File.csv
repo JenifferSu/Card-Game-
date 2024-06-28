@@ -1,0 +1,100 @@
+1|Arrays in C++ are dynamic data structures.|False|200
+2|A linked list is a linear data structure in C++.|True|300
+3|Stacks follow the Last In First Out (LIFO) principle.|True|200
+4|A queue follows the Last In First Out (LIFO) principle.|False|100
+5|Binary search trees guarantee constant time insertion and deletion operations.|False|100
+6|Depth-First Search (DFS) and Breadth-First Search (BFS) are traversal algorithms used in trees.|True|300
+7|A heap is a specialized tree-based data structure.|True|300
+8|A hash table provides constant-time search, insertion, and deletion operations on average.|True|300
+9|A graph is a non-linear data structure.|True|300
+10|In C++, a stack can be implemented using an array or a linked list.|True|300
+11|A priority queue always removes the highest priority element first.|True|200
+12|In C++, a linked list can be traversed in both forward and backward directions.|True|200
+13|A binary tree is a type of tree data structure where each node can have at most two children.|True|200
+14|A breadth-first search algorithm can be used to find the shortest path in a graph.|True|100
+15|A circular queue can avoid the wastage of space in a regular queue.|True|100
+16|A binary search tree guarantees constant time searching for an element.|False|100
+17|A binary heap is a type of complete binary tree.|True|100
+18|A doubly linked list allows traversal in both forward and backward directions.|True|100
+19|A trie is a tree-like data structure used for storing strings.|True|100
+20|In C++, a queue can be implemented using an array or a linked list.|True|100
+21|In a binary search tree, the left subtree contains only nodes with keys less than the root.|True|100
+22|A stack can be used to implement a recursive algorithm iteratively.|True|100
+23|A tree is a collection of nodes organized in a hierarchical structure.|True|300
+24|A hash function maps data of arbitrary size to a fixed-size value.|True|300
+25|A binary search tree may have multiple nodes with the same value.|True|200
+26|A red-black tree is a type of balanced binary search tree.|True|300
+27|A circular linked list does not have a beginning or an end.|True|300
+28|A binary heap is always a complete binary tree.|True|200
+29|A graph can have cycles but no self-loops.|True|100
+30|A directed graph has edges with a specified direction.|True|200
+31|A queue can be implemented using a doubly linked list.|True|300
+32|A hash table typically uses chaining or open addressing to handle collisions.|True|200
+33|A binary tree with N nodes has N-1 edges.|True|300
+34|A graph with no cycles is called a connected graph.|True|100
+35|A binary tree can have at most two children per node.|True|100
+36|A heap can be used to efficiently implement priority queues.|True|200
+37|A trie is a type of search tree.|True|300
+38|A balanced tree guarantees O(log N) time complexity for most operations.|True|300
+39|A doubly linked list allows constant-time insertion and deletion at both ends.|True|100
+40|A spanning tree of a graph contains all the vertices and is a subgraph.|True|200
+41|A stack can be used to reverse a sequence of elements.|True|200
+42|In C++, a queue can only be implemented using a linked list.|False|300
+43|A hash table requires O(N) space complexity.|False|300
+44|A red-black tree guarantees O(log N) time complexity for all operations.|True|200
+45|A graph with no cycles and is connected is called a tree.|True|100
+46|A binary search tree always has a unique left and right child for each node.|True|300
+47|A hash table requires a unique hash function for each type of data it stores.|False|200
+48|A trie can be used for efficiently storing and searching for strings.|True|200
+49|A binary heap can be represented using an array.|True|100
+50|A linked list can be used to implement a queue.|True|100
+51|A graph can have parallel edges.|True|300
+52|A hash table guarantees O(1) time complexity for all operations.|False|100
+53|A binary search tree guarantees O(N) time complexity for insertion and deletion operations.|False|100
+54|A spanning tree of a graph contains the minimum number of edges required to connect all vertices.|True|100
+55|A stack can be used to implement recursion.|True|200
+56|In C++, a linked list can only be singly linked.|False|200
+57|A hash table requires a unique hash value for each key.|True|300
+58|A binary heap can be used to efficiently implement Dijkstra's algorithm.|True|100
+59|A binary search tree is always balanced.|False|100
+60|A graph with no cycles is called a directed acyclic graph (DAG).|True|300
+61|A linked list requires contiguous memory allocation.|False|100
+62|A hash table can have multiple elements mapped to the same index.|True|100
+63|A binary heap is a complete binary tree with the heap property.|True|200
+64|A binary search tree may have a height of O(N).|True|300
+65|A graph can be represented using an adjacency matrix or an adjacency list.|True|100
+66|A trie is a type of binary search tree.|False|100
+67|A balanced binary search tree guarantees O(1) time complexity for most operations.|False|300
+68|A doubly linked list allows traversal in both forward and backward directions with O(1) time complexity.|True|300
+69|A spanning tree of a graph contains all the edges of the original graph.|False|200
+70|A stack can be implemented using a dynamic array.|True|200
+71|In C++, a linked list can only be implemented using pointers.|False|300
+72|A hash table requires a unique hash value for each element.|True|100
+73|A binary heap requires the elements to have a total order relation.|True|200
+74|A binary search tree with N nodes has height O(log N) in the average case.|True|100
+75|A graph with no cycles is called a connected graph.|True|300
+76|A linked list can be used to implement a stack.|True|200
+77|A hash table guarantees O(log N) time complexity for search operations.|False|200
+78|A binary heap can be used to efficiently implement Prim's algorithm for minimum spanning trees.|True|200
+79|A balanced binary search tree always has the same height for all subtrees.|False|100
+80|A doubly linked list allows constant-time deletion at any position.|True|300
+81|A spanning tree of a graph contains the maximum number of edges.|False|100
+82|A stack can be used to implement a queue.|False|200
+83|In C++, a linked list can have nodes of different data types.|False|100
+84|A hash table can have multiple elements mapped to the same hash value.|True|200
+85|A binary heap can be used to efficiently implement heap sort.|True|200
+86|A binary search tree guarantees O(N) time complexity for all operations.|False|100
+87|A graph with no cycles is called an acyclic graph.|True|300
+88|A linked list can be used to implement a priority queue.|True|100
+89|A hash table guarantees O(1) time complexity for search operations.|True|200
+90|A balanced binary search tree guarantees O(log N) time complexity for all operations.|True|300
+91|A doubly linked list requires more memory than a singly linked list.|True|100
+92|A spanning tree of a graph contains all the vertices of the original graph.|True|100
+93|A stack can be used to implement a linked list.|False|300
+94|In C++, a hash table can only store integers as keys.|False|100
+95|A binary heap can be used to efficiently implement Kruskal's algorithm for minimum spanning trees.|True|200
+96|A binary search tree can have more than one valid inorder traversal.|True|300
+97|A graph with no cycles is called a tree.|True|100
+98|A linked list can be used to implement a hash table.|False|300
+99|A hash table uses a hash function to compute an index into an array of buckets or slots.|True|200
+100|A balanced binary search tree is always a complete binary tree.|False|300
